@@ -137,7 +137,7 @@ textarea {
   resize: vertical;
 }
 
-[input="search"] {
+input[type="search"] {
   -webkit-appearance: none;
   appearance: none;
 }
